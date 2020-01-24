@@ -15,7 +15,7 @@ for(i=1;i<=n;i++)
 	sum=sum+prod;
 }
 
- printf("Sum=%d\n",sum);
+ printf("Sum is=%d\n",sum);
 }
 abcdef
 ghijk
