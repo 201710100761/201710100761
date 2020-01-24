@@ -15,7 +15,10 @@ for(i=1;i<=n;i++)
 	sum=sum+prod;
 }
 
- printf("Sum is=%d\n",sum);
+
+ printf("Sum of the numbers are=%d\n",sum);
+
+
 }
 abcdef
 ghijk
