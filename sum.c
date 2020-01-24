@@ -18,4 +18,4 @@ for(i=1;i<=n;i++)
  printf("Sum=%d\n",sum);
 }
 abcdef
-ghijklmno
+ghijk
