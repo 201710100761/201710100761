@@ -1,0 +1,68 @@
+<html>
+<body>
+<body><center><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<table  border="1" cellpadding="2" cellspacing="2"
+width="90%" bordercolor="pink" height="50%" font="ariel">
+<tr>
+<th colspan="5">Time-table</th>
+</tr>
+<tr>
+<th width="35%" bgcolor="yellow">Days</th>
+<th width="20%" bgcolor="yellow">1</th>
+<th width="20%" bgcolor="yellow">2</th>
+<th width="5%" bgcolor="yellow" rowspan="7">L<br>U<br>N<br>C<br>H</th>
+<th width="20%" bgcolor="yellow">3</th>
+</tr>
+<tr>
+<th width="35%" bgcolor="grey">Monday</th>
+<th width="20%">CS1</th>
+<th width="20%">CS2</th>
+
+<th width="20%">CS3</th>
+</tr>
+<tr>
+<th width="35%" bgcolor="grey">Tuesday</th>
+<th width="20%">CS1</th>
+<th width="20%">CS2</th>
+
+<th width="20%">CS3</th>
+</tr>
+<tr>
+<th width="35%" bgcolor="grey">Wednesday</th>
+<th width="20%">CS1</th>
+<th width="20%">CS2</th>
+
+<th width="20%">CS3</th>
+</tr>
+<tr>
+<th width="35%" bgcolor="grey">Thursday</th>
+<th width="20%">CS1</th>
+<th width="20%">CS2</th>
+
+<th width="20%">CS3</th>
+</tr>
+<tr>
+<th width="35%" bgcolor="grey">Friday</th>
+<th width="20%">CS1</th>
+<th width="20%">CS2</th>
+
+<th width="20%">CS3</th>
+</tr>
+<tr>
+<th width="35%" bgcolor="grey">Saturday</th>
+<th width="20%">CS1</th>
+<th width="20%">CS2</th>
+
+<th width="20%">CS3</th>
+</tr>
+
+
+
+</table>
+</body>
+</html>
