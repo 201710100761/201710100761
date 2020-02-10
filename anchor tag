@@ -1,0 +1,17 @@
+<html>
+<body>
+<img src="/home/cse9/Desktop/cse0589/gettyimages-131964010-170667a.jpg" style="border:2;"/>
+<hr>
+click<a href="http://www.yahoo.com">here</a>
+<hr>
+<marquee direction="right">this is a basic example of marquee tag</marquee>
+<hr>
+<p><img src="gettyimages-131964010-170667a.jpg" alt="Frisky kitty" border="2" style="float:right;width:420px;height:420px;border-width:10;">The image will float to the right</p>
+<hr>
+<p><img src="gettyimages-131964010-170667a.jpg" alt="Frisky kitty" usemap="#workmap">
+<map name="workmap">
+<area shape="rect" coords="34,44,270,350" alt="computer" href="file:///home/cse9/Desktop/cse0589/CV.html#bookmark_name">
+<area shape="rect" coords="290,172,333,250" alt="phone" href="https://libgen.is/fiction/9ADB653111030786AA7DCB94C744CDE5">
+<area shape="circle" coords="237,300,44" alt="coffee" href="https://www.apple.com/">
+</body>
+</html>
