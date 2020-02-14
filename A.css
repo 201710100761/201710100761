@@ -1,0 +1,19 @@
+
+		
+			body{
+					background-image: linear-gradient(to right,  #e6ffff,#ccffff,#b3ffff,#99ffff, #80ffff,#66ffff,		 #4dffff,
+		 #33ffff,
+		 #1affff,
+		
+	
+
+	 #00ffff); 
+				}
+			h2{
+					font-weight:bold;
+					font-size:3.5em;
+					font-family:system-ui;
+					color:maroon;
+					margin-left:40px;
+			}
+		

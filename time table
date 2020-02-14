@@ -1,13 +1,22 @@
 <html>
+<head>
+<style>
+body
+{ background:url(school.jpg);
+background-size:cover;
+}
+
+</style>
+</head>
 <body>
-<body bgcolor="#E6E6FA"><center><br>
+<center><br>
 <br>
 <br>
 <br>
 <br>
 <br>
 <table  border="1" cellpadding="2" cellspacing="2"
-width="90%" bordercolor="pink" height="50%" font="ariel">
+width="90%" bordercolor="pink" height="50%"  >
 <tr>
 <th colspan="8">Time-table</th>
 </tr>
